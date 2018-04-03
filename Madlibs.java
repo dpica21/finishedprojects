@@ -1,6 +1,6 @@
 import java.io.Console;
  
-public class Introductions {
+public class Madlibs {
 
 public static void main(String[] args) {
         Console console = System.console();
